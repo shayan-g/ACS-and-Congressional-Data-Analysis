@@ -24,7 +24,7 @@
 | **OLS (dependent: % ≥ \$200 K)** | β̂ = 0.82 for degree %, β̂ = 1.82 for party dummy (D) | *R² = 0.64* | both *p* < 0.001 |
 
 > Even after controlling for education, Democratic districts average **≈ 1.8 percentage-points** more \$200 K+ households, hinting at additional explanatory factors (industry mix, urbanization, cost of living, etc.).  
-> See the notebook for full diagnostics, VIF scores, and robustness checks.
+> See the notebook for full diagnostics, VIF scores, etc.
 
 ---
 
