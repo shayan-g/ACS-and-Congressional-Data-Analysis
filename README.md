@@ -59,6 +59,7 @@
      ```
      % ≥ $200 K ~ pct_bachelor_plus + party_dummy
      ```
+   * Check Variance Inflation Factor (VIF < 1.1 → low multicollinearity, though we are suspicious of this result)
 
 ---
 
