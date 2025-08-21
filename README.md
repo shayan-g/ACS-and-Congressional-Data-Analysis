@@ -68,5 +68,3 @@
 * **Cost-of-living adjustments:** \$200 K in NYC ≠ \$200 K in rural areas.
 * **Additional covariates:** Include industry mix, urbanization, race/ethnicity, age structure, unionization.
 * **Time-series extension:** Expand to ACS 2010–2024 to assess stability.
-
-Contributions—new features, bug fixes, deeper econometric approaches—are very welcome via pull request!
