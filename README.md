@@ -1,4 +1,4 @@
-# ACS & Congressional Data Analysis
+# ACS (American Community Survey) & Congressional Data Analysis
 
 *A Jupyter-Notebook investigation of how **education** and **political-party affiliation** relate to very-high household income in U.S. Congressional districts (ACS 2021).*
 
